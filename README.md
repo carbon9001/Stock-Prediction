@@ -1,4 +1,4 @@
 # Stock-Prediction
-For Kaggle Stock prediction project
-Still in development.
-Current steps: verification of algorithm
+For Kaggle Stock prediction project.\n
+Still in development.\n
+Current step: verification of algorithm
